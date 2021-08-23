@@ -7,7 +7,7 @@ It would be very exciting afterwards to potentially use both skillsets in some o
 
 With all that said, it's a long ways away! So for now I'll be focusing on getting better and getting some daily use out of what development skills I do have! 
 
-I'm currently placing an emphasis on learning the AWS space alog with Python, but there are a few open source projects I'm quite fond of (in particular- https://github.com/azerothcore)
+I'm currently placing an emphasis on learning the AWS fundamentals along with Python, but there are a few open source projects I'm quite fond of (in particular- https://github.com/azerothcore)
 that have forced to me to try and pick up new things along the way! 
 
 <!---
